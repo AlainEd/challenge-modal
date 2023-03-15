@@ -47,7 +47,7 @@ You should now be able to access the API at http://localhost:8000.
 ## EndPoint GET
 It is enough to just put the url of the local Django server (currently it does not have JWT to protect the requests to the API)
 
-![image](https://raw.githubusercontent.com/AlainEd/challenge-modal/frontend/src/assets/Imagen1.png)
+![image](https://github.com/AlainEd/challenge-modal/blob/main/frontend/src/assets/Imagen1.png)
 
 ## Setup Backend
 1. Clone the repository:
@@ -68,7 +68,7 @@ You should now be able to access the API at http://localhost:5173.
 ## Test
 
 Pressing the button executes an event that calls the modal
-![image](https://raw.githubusercontent.com/AlainEd/challenge-modal/frontend/src/assets/Imagen2.png)
+![image](https://github.com/AlainEd/challenge-modal/blob/main/frontend/src/assets/Imagen2.png)
 
 The modal contains the profile search engine in real time, taking into account the name (title) and the description
-![image](https://raw.githubusercontent.com/AlainEd/challenge-modal/frontend/src/assets/Imagen3.png)
+![image](https://github.com/AlainEd/challenge-modal/blob/main/frontend/src/assets/Imagen3.png)
