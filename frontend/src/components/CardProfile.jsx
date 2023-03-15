@@ -3,11 +3,13 @@ import { Card, CardContent, CardHeader, CardActions, Button } from '@mui/materia
 import Typography from '@mui/material/Typography';
 import BrightnessLowIcon from '@mui/icons-material/BrightnessLow';
 
+
 const CardProfile = (props) => {
+
     return (
         <div className='my-2 w-full pb-3' key={props.id}>
             <div className='grid justify-start'>
-                <Card sx={{ width: 280, borderRadius: 3, backgroundColor: '#F6F7F9' }} className='bg-red-400'>
+                <Card sx={{ width: 280, borderRadius: 3, backgroundColor: '#F6F7F9' }}>
                     <CardHeader
                         titleTypographyProps={{ fontSize: 15, fontWeight: 700 }}
                         title={

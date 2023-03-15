@@ -10,5 +10,10 @@ class FruitView(View):
             data = {
                 'fruits': fruits
             }
+        else:
+            data = {
+                'message': "Fruits empty",
+                'fruits': []
+            }
 
         return JsonResponse(data)

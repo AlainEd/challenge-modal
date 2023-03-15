@@ -1,0 +1,26 @@
+[
+    {
+        "pk": 1,
+        "model": "api.fruit",
+        "fields": {
+            "name": "Strawberry",
+            "description": "La fresa o frutilla (Fragaria) es un género de plantas rastreras estoloníferas de la familia Rosaceae. Agrupa unos 400 taxones descritos, de los cuales solo unos 20 están aceptados.1​ Son cultivadas por su fruto comestible (eterio) llamado de la misma man"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "api.fruit",
+        "fields": {
+            "name": "watermelon",
+            "description": "La sandía es un fruto grande y de forma más o menos esférica que suele consumirse cruda como postre. Su pulpa es de color rojizo o amarillento y de sabor dulce. Resulta un alimento muy refrescante que aporta muy pocas calorías al organismo, también aporta"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "api.fruit",
+        "fields": {
+            "name": "pear",
+            "description": "Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.1​ Sin embargo, cuando se trata del fruto comestible, se hace referencia mayormente al producido por el llamado peral co"
+        }
+    }
+]

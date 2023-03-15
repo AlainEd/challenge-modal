@@ -96,7 +96,7 @@ const BasicModal = ({ open, handleClose }) => {
                     />
                   </div>
                   {/* Profiles */}
-                  <div className='grid lg:grid-cols-2'>
+                  <div className='grid md:grid-cols-2 lg:grid-cols-2'>
                     {
                       filteredFruits.length > 0 ? (
                         filteredFruits.map(fruit => (
